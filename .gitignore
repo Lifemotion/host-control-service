@@ -1,0 +1,4 @@
+*.pdb
+*.xml
+*.config
+*.vshost.exe
